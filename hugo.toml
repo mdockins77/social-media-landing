@@ -1,4 +1,4 @@
-baseurl      = "/"
+baseurl      = "https://social.davidpacold.dev"
 title        = "David Pacold"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
