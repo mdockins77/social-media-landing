@@ -27,6 +27,9 @@ paginate     = 10
   keywords = "homepage, blog, social"
   images = [""]
 
+#Google Analytics - ! Change this to be your ID ! 
+  googleAnalytics = "G-GHBQN6V1R2"
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
