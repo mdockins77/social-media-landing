@@ -1,4 +1,4 @@
-baseurl      = "https://social.davidpacold.dev"
+baseurl      = "https://connectwith.davidpacold.dev"
 title        = "David Pacold"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -39,8 +39,8 @@ paginate     = 10
   [params.footer]
 #    trademark = true
 #    rss = true
-    copyright = true
-    author = true
+#    copyright = true
+#    author = true
 
     topText = []
     bottomText = [
