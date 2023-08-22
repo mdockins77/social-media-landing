@@ -4,6 +4,9 @@ languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
+#Google Analytics - ! Change this to be your ID ! 
+  googleAnalytics = 'G-GHBQN6V1R2'
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -29,9 +32,6 @@ paginate     = 10
 
 [author]
   name = "David Pacold"
-
-#Google Analytics - ! Change this to be your ID ! 
-  googleAnalytics = "G-GHBQN6V1R2"
 
  # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
