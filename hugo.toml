@@ -1,12 +1,12 @@
 # ! Change this to be your URL and Name ! 
-baseurl      = "https://connectwith.davidpacold.dev"
-title        = "David Pacold"
+baseurl      = "https://connectwith.mikedockins2.win"
+title        = "Mike Dockins II"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
 # Google Analytics - ! Change this to be your ID or remove ! 
-  googleAnalytics = 'G-GHBQN6V1R2'
+# googleAnalytics = 'G-GHBQN6V1R2'
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -25,7 +25,7 @@ paginate     = 10
 
 [author]
 # ! Change this !
-  name = "David Pacold"
+  name = "Mike Dockins II"
 
  # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
@@ -57,23 +57,23 @@ paginate     = 10
 
     [languages.en.params.logo]
     # ! Change this !
-      logoText = "David Pacold"
+      logoText = "Mike Dockins II"
       logoHomeLink = "/"
 
   # ! Change these !
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://bsky.davidpacold.dev"
+    url  = "https://twitter.com/dockinj"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:dpacold@cloudflare.com"
+    url  = "mailto:mdockins@cloudflare.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/davidpacold"
+    url  = "https://github.com/mdockins77"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/davidpacold"
+    url  = "https://www.linkedin.com/in/mike-dockins-ii-78399a3/"
